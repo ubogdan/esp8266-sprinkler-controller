@@ -11,3 +11,6 @@ Eagle 7.5.0 Light (Free Version)
 
 I used an ESP-03 module in this project, but if you want to get the OTA firmware update to work you need to use a module with more flash memory. (It works just fine without OTA updates)
 
+![Web Interface Screenshot](https://raw.githubusercontent.com/andremiller/esp8266-sprinkler-controller/master/photos/web-interface-screenshot.png)
+
+![Completed Project](https://raw.githubusercontent.com/andremiller/esp8266-sprinkler-controller/master/photos/00%20Completed%20Project.jpg)
