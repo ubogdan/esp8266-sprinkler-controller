@@ -13,4 +13,6 @@ I used an ESP-03 module in this project, but if you want to get the OTA firmware
 
 ![Web Interface Screenshot](https://raw.githubusercontent.com/andremiller/esp8266-sprinkler-controller/master/photos/web-interface-screenshot.png)
 
+![Inside of case](https://raw.githubusercontent.com/andremiller/esp8266-sprinkler-controller/master/photos/10%20Fitting%20Circuit%20Inside%20Case.jpg)
+
 ![Completed Project](https://raw.githubusercontent.com/andremiller/esp8266-sprinkler-controller/master/photos/00%20Completed%20Project.jpg)
